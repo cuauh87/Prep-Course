@@ -1,4 +1,13 @@
-h1{ color:turquoise;}
+body {
+    background-image: url("https://www.mexicodestinos.com/blog/wp-content/uploads/2022/03/DESTACADA-1.jpg");
+
+}
+h1{ color:turquoise;
+text-align: center;}
+
+h3{text-align: center;}
+h4{text-align: center;}
+
 img{ width:400px;}
 #thirdDiv{ 
     width: 500px;
@@ -6,13 +15,18 @@ img{ width:400px;}
    background-color: darksalmon;
    padding: 50px;
    border: 10px solid cadetblue;
+   margin-left: auto;
+   margin-right: auto;
 }
-#spanid{
+#spanId{
     font-size: 18px;
 margin: 50px;
+text-align: center;
 }
-body{
-    background-image:url("pagina/1.jpg");
-    
+
+a{
+    text-align: center;
 }
+
+
 
